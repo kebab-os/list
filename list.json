@@ -1,7 +1,7 @@
 [
-  { "name": "kebab-gui", "url": "https://github.com/kebab-gui" },
-  { "name": "kebab-cli", "url": "https://github.com/kebab-cli" }
-  { "name": "kebab-launcher", "url": "https://github.com/kebab-launcher" }
-  { "name": "kebab-android", "url": "https://github.com/kebab-android" }
-  { "name": "kebab-tools", "url": "https://github.com/kebab-tools" }
+  { "name": "kebab-gui", "url": "https://github.com/kebab-gui", "website": "https://kebabos.me" },
+  { "name": "kebab-cli", "url": "https://github.com/kebab-cli", "website": "https://kebabos.me" },
+  { "name": "kebab-launcher", "url": "https://github.com/kebab-launcher", "website": null },
+  { "name": "kebab-android", "url": "https://github.com/kebab-android", "website": null },
+  { "name": "kebab-tools", "url": "https://github.com/kebab-tools", "website": "https://tools.kebabos.me" }
 ]
