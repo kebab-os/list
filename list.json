@@ -3,4 +3,5 @@
   { "name": "kebab-cli", "url": "https://github.com/kebab-cli" }
   { "name": "kebab-launcher", "url": "https://github.com/kebab-launcher" }
   { "name": "kebab-android", "url": "https://github.com/kebab-android" }
+  { "name": "kebab-tools", "url": "https://github.com/kebab-tools" }
 ]
