@@ -8,3 +8,4 @@ This repo contains all the kebab-os projects, and their URL. This list can be fo
 - [kebab-cli](https://github.com/kebab-os/kebab-cli)
 - [kebab-launcher](https://github.com/kebab-os/kebab-launcher)
 - [kebab-android](https://github.com/kebab-os/kebab-android)
+- [kebab-tools](https://github.com/kebab-os/kebab-tools)
