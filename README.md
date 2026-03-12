@@ -3,6 +3,7 @@
 - [kebab-launcher](https://github.com/kebab-os/kebab-launcher)
 - [kebab-android](https://github.com/kebab-os/kebab-android)
 - [kebab-tools](https://github.com/kebab-os/kebab-tools)
+- [kebab-lang](https://github.com/kebab-os/kebab-lang)
 
 ---
 
