@@ -4,6 +4,7 @@
 - [kebab-android](https://github.com/kebab-os/kebab-android)
 - [kebab-tools](https://github.com/kebab-os/kebab-tools)
 - [kebab-lang](https://github.com/kebab-os/kebab-lang)
+- [kebab-shell](https://github.com/kebab-os/kebab-shell) <sub>in development</sub>
 
 ---
 
