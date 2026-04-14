@@ -5,5 +5,6 @@
   { "name": "kebab-android", "url": "https://github.com/kebab-android", "website": null },
   { "name": "kebab-tools", "url": "https://github.com/kebab-tools", "website": "https://tools.kebabos.me" },
   { "name": "kebab-lang", "url": "https://github.com/kebab-lang", "website": null },
-  { "name": "kebab-shell", "url": "https://github.com/kebab-shell", "website": null }
+  { "name": "kebab-shell", "url": "https://github.com/kebab-shell", "website": null },
+  { "name": "kebab-client", "url": "https://github.com/kebab-client", "website": null }
 ]
