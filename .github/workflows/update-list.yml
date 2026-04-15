@@ -26,7 +26,7 @@ jobs:
               url = item['url']
               website = item.get('website')
               if website:
-                  lines.append(f'- [{name}]({url}) — [{website}]({website})')
+                  lines.append(f'- [{name}](https://github.com/kebab-os/{url}) — [{website}]({website})')
               else:
                   lines.append(f'- [{name}]({url})')
           list_md = '\n'.join(lines)
