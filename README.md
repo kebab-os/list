@@ -1,7 +1,7 @@
 <!-- LIST_START -->
 - [kebab-gui](https://github.com/kebab-os/kebab-gui) — [https://kebabos.me](https://kebabos.me)
 - [kebab-cli](https://github.com/kebab-os/kebab-cli) — [https://kebabos.me](https://kebabos.me)
-- [kebab-launcher](https://github.com/kebab-os/kebab-os/kebab-os/kebab-launcher)
+- [kebab-launcher](https://github.com/kebab-os/kebab-launcher)
 - [kebab-android](https://github.com/kebab-os/kebab-android)
 - [kebab-tools](https://github.com/kebab-os/kebab-tools) — [https://tools.kebabos.me](https://tools.kebabos.me)
 - [kebab-lang](https://github.com/kebab-os/kebab-lang)
