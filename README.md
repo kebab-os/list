@@ -1,11 +1,11 @@
 <!-- LIST_START -->
-- [kebab-gui](https://github.com/kebab-os/kebab-gui) — [https://kebabos.me](https://kebabos.me)
+- [kebab-os](https://github.com/kebab-os/kebab-os) — [https://kebabos.me](https://kebabos.me)
 - [kebab-tools](https://github.com/kebab-os/kebab-tools) — [https://tools.kebabos.me](https://tools.kebabos.me)
-- [kebab-launcher (archive)](https://github.com/kebab-os/kebab-launcher)
-- [kebab-android (archive)](https://github.com/kebab-os/kebab-android)
+- [kebab-launcher](https://github.com/kebab-os/kebab-launcher)
+- [android-config](https://github.com/kebab-os/android-config)
 - [kebab-lang (archive)](https://github.com/kebab-os/kebab-lang)
-- [kebab-shell (archive)](https://github.com/kebab-os/kebab-shell)
-- [kebab-cli (archive)](https://github.com/kebab-os/kebab-cli) — [https://kebabos.me](https://kebabos.me)
+- [shell-base](https://github.com/kebab-os/shell-base)
+- [cli-app](https://github.com/kebab-os/cli-app) — [https://kebabos.me](https://kebabos.me)
 <!-- LIST_END -->
 
 ---
