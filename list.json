@@ -1,9 +1,9 @@
 [
-  { "name": "kebab-gui", "url": "https://github.com/kebab-os/kebab-gui", "website": "https://kebabos.me" },
+  { "name": "kebab-os", "url": "https://github.com/kebab-os/kebab-os", "website": "https://kebabos.me" },
   { "name": "kebab-tools", "url": "https://github.com/kebab-os/kebab-tools", "website": "https://tools.kebabos.me" },
-  { "name": "kebab-launcher (archive)", "url": "https://github.com/kebab-os/kebab-launcher", "website": null },
-  { "name": "kebab-android (archive)", "url": "https://github.com/kebab-os/kebab-android", "website": null },
+  { "name": "kebab-launcher", "url": "https://github.com/kebab-os/kebab-launcher", "website": null },
+  { "name": "android-config", "url": "https://github.com/kebab-os/android-config", "website": null },
   { "name": "kebab-lang (archive)", "url": "https://github.com/kebab-os/kebab-lang", "website": null },
-  { "name": "kebab-shell (archive)", "url": "https://github.com/kebab-os/kebab-shell", "website": null },
-  { "name": "kebab-cli (archive)", "url": "https://github.com/kebab-os/kebab-cli", "website": "https://kebabos.me" }
+  { "name": "shell-base", "url": "https://github.com/kebab-os/shell-base", "website": null },
+  { "name": "cli-app", "url": "https://github.com/kebab-os/cli-app", "website": "https://kebabos.me" }
 ]
