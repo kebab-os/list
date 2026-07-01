@@ -6,6 +6,7 @@
 - [kebab-lang (archive)](https://github.com/kebab-os/kebab-lang)
 - [shell-base](https://github.com/kebab-os/shell-base)
 - [cli-app](https://github.com/kebab-os/cli-app) — [https://kebabos.me](https://kebabos.me)
+- [kebabuntu](https://github.com/kebab-os/kebabuntu)
 <!-- LIST_END -->
 
 ---
