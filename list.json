@@ -5,5 +5,6 @@
   { "name": "android-config", "url": "https://github.com/kebab-os/android-config", "website": null },
   { "name": "kebab-lang (archive)", "url": "https://github.com/kebab-os/kebab-lang", "website": null },
   { "name": "shell-base", "url": "https://github.com/kebab-os/shell-base", "website": null },
-  { "name": "cli-app", "url": "https://github.com/kebab-os/cli-app", "website": "https://kebabos.me" }
+  { "name": "cli-app", "url": "https://github.com/kebab-os/cli-app", "website": "https://kebabos.me" },
+  { "name": "kebabuntu", "url": "https://github.com/kebab-os/kebabuntu", "website": null }
 ]
